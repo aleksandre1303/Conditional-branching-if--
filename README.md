@@ -15,3 +15,12 @@ I am new to javascript and have done some tasks on javascript.info
 ## Task 3
 
 <img width="555" alt="Screenshot 2023-02-28 at 00 13 08" src="https://user-images.githubusercontent.com/67371847/221673275-25416616-1974-4a7a-bd01-bc2f506b10ed.png">
+
+
+### Links
+Solution URL: https://github.com/aleksandre1303/SaaS-landing-page
+
+
+## Author
+
+- Linkedin - [Aleksandre Sifrashvili](https://www.linkedin.com/in/aleksandre-sifrashvili-3673a2214/)
